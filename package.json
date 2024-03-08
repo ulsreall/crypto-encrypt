@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/ulsreall/crypto-encrypt#readme",
   "dependencies": {
+    "crypto-encrypt": "^1.1.4",
     "layercupang": "^1.1.4",
     "typescript": "^5.4.2"
   }
