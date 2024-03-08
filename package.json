@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/ulsreall/crypto-encrypt/issues"
   },
-  "homepage": "https://github.com/ulsreall/crypto-encrypt#readme"
+  "homepage": "https://github.com/ulsreall/crypto-encrypt#readme",
+  "dependencies": {
+    "layercupang": "^1.1.4",
+    "typescript": "^5.4.2"
+  }
 }
