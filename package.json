@@ -1,6 +1,6 @@
 {
   "name": "crypto-encrypt",
-  "version": "1.5.1",
+  "version": "2.0.0",
   "description": "encrypt and decrypt",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/ulsreall/crypto-encrypt#readme",
   "dependencies": {
-    "crypto-encrypt": "^1.1.4",
+    "crypto-encrypt": "^1.5.1",
     "layercupang": "^1.1.4",
     "typescript": "^5.4.2"
   }
