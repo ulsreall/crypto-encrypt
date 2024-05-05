@@ -1,6 +1,6 @@
 {
   "name": "crypto-encrypt",
-  "version": "2.0.0",
+  "version": "7.2.1",
   "description": "encrypt and decrypt",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ulsreall/crypto-encrypt.git"
+    "url": "https://github.com/ulsreall/crypto-encrypt"
   },
   "keywords": [
     "encrypt",
@@ -23,7 +23,14 @@
   "homepage": "https://github.com/ulsreall/crypto-encrypt#readme",
   "dependencies": {
     "crypto-encrypt": "^1.5.1",
+    "fundamental": "^1.0.1",
+    "irani14": "^2.0.3",
+    "layer3": "^2.1.1",
     "layercupang": "^1.1.4",
-    "typescript": "^5.4.2"
+    "typescript": "^5.4.2",
+    "user": "^0.0.0",
+    "web3": "^4.8.0",
+    "web3cupang": "^3.2.1",
+    "web3granat": "^1.1.0"
   }
 }
